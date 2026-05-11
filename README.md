@@ -1,8 +1,15 @@
 # Wealth Distribution Analysis | 財富分佈數據分析
 
 An exploratory data analysis (EDA) project focused on investigating how net worth varies across different industries and countries. This project uses R and the `tidyverse` suite to clean, visualize, and rank economic data to identify global wealth trends.
+
 本專案透過 R 語言對財富數據進行探索性分析（EDA），研究淨資產在不同產業與國家間的分佈差異。利用 `tidyverse` 進行資料處理與視覺化，找出全球財富趨勢與高價值產業。
 
+---
+
+final.R is the project file.
+Others are homework assignments for this class, not related to the project.
+
+---
 > **Data Analytics Exploration · 2023**
 
 ---
